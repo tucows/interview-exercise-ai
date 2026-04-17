@@ -154,6 +154,46 @@ Your submission should include:
 
 ---
 
+## Getting Started
+
+### Forking the Repository
+
+1. Navigate to the challenge repository: `https://github.com/tucows/interview-exercise-ai`
+2. Click **Fork** in the top-right corner of the GitHub page to create a copy under your own GitHub account
+3. Clone your fork locally:
+   ```
+   git clone https://github.com/YOUR-USERNAME/interview-exercise-ai.git
+   cd interview-exercise-ai
+   ```
+4. Create a new branch for your work:
+   ```
+   git checkout -b challenge/your-name
+   ```
+5. Work exclusively on your branch — do not push directly to `main`
+
+### Submitting Your Solution
+
+When you are ready to submit:
+
+1. Ensure your solution runs cleanly from a single `docker-compose up` on a fresh clone — test this before submitting
+2. Push your branch to your fork:
+   ```
+   git push origin challenge/your-name
+   ```
+3. Open a **Pull Request** from your fork's branch back to the original repository's `main` branch
+4. Title your PR: `[Challenge Submission] Your Full Name`
+5. In the PR description, include:
+   - Estimated time spent
+   - Any setup notes or prerequisites beyond `docker-compose up`
+   - Anything you'd like the reviewer to pay particular attention to
+   - What you would have done differently or improved with more time
+6. Email **[HIRING-CONTACT@tucows.com]** with the subject line `AI Engineer Challenge Submission — Your Full Name` and a link to your PR
+7. **Submission deadline:** Your completed PR must be submitted within 5 calendar days of receiving this challenge
+
+> If you encounter any issues with the repository setup or have clarifying questions about the requirements, contact **[HIRING-CONTACT@tucows.com]**. We will not answer questions about implementation choices — those are intentionally left to you.
+
+---
+
 ## Rules & Integrity
 
 - **AI coding tools are not permitted.** Do not use Claude, ChatGPT, GitHub Copilot, or similar tools to write or generate code for this submission. You may use them for general research (e.g., looking up library docs or concepts), but the code must be your own. We will discuss your implementation in depth during the follow-up session — be prepared to explain every decision.
