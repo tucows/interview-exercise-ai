@@ -187,10 +187,10 @@ When you are ready to submit:
    - Any setup notes or prerequisites beyond `docker-compose up`
    - Anything you'd like the reviewer to pay particular attention to
    - What you would have done differently or improved with more time
-6. Email **[HIRING-CONTACT@tucows.com]** with the subject line `AI Engineer Challenge Submission — Your Full Name` and a link to your PR
+6. Submit via greenhouse link
 7. **Submission deadline:** Your completed PR must be submitted within 5 calendar days of receiving this challenge
 
-> If you encounter any issues with the repository setup or have clarifying questions about the requirements, contact **[HIRING-CONTACT@tucows.com]**. We will not answer questions about implementation choices — those are intentionally left to you.
+> If you encounter any issues with the repository setup or have clarifying questions about the requirements, contact youre recruiter. We will not answer questions about implementation choices — those are intentionally left to you.
 
 ---
 
